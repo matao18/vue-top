@@ -1,9 +1,7 @@
 # 2019.11.10 - 2019.11.25
-第一次写项目,代码规范性，和Vue的组件化思想没有做到位，以后写项目时一定要注意！ GO GO GO 
 
 ## My Project
 
-See [Configuration Reference](https://cli.vuejs.org/config/).
 ![Image text](./public/ImageView/Home.png) 
 ![Image text](./public/ImageView/Home2.png) 
 ![Image text](./public/ImageView/buy.png) 
